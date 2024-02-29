@@ -1,8 +1,6 @@
 # nstbrowser-browser-advanced-anti-fingerprint-system
 Providing a blazing fast framework for web automation, webscraping, bots and any other creative ideas which are normally hindered by annoying anti bot systems like Captcha / CloudFlare / Imperva / hCaptcha
 
-
-```markdown
 # Nstbrowser Puppeteer Integration
 
 Integrate the power of Nstbrowser with Puppeteer for enhanced web automation capabilities. This guide provides step-by-step instructions on how to use Nstbrowser with Puppeteer, enabling you to leverage custom browser profiles, configurations, and more.
