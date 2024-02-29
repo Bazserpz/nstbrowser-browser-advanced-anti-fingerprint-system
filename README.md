@@ -1,5 +1,5 @@
 # nstbrowser-browser-advanced-anti-fingerprint-system
-Providing a blazing fast framework for web automation, webscraping, bots and any other creative ideas which are normally hindered by annoying anti bot systems like Captcha / CloudFlare / Imperva / hCaptcha
+https://www.nstbrowser.io/ is providing a blazing fast framework for web automation, webscraping, bots and any other creative ideas which are normally hindered by annoying anti bot systems like Captcha / CloudFlare / Imperva / hCaptcha
 
 # Nstbrowser Puppeteer Integration
 
